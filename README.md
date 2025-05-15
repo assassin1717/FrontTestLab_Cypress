@@ -1,4 +1,3 @@
-````markdown
 # FrontTestLab - Cypress Automation Framework
 
 This is a beginner-friendly automation framework built using **Cypress**, designed specifically for UI interaction practice on the [FrontTestLab](https://fronttestlab.web.app) playground.
@@ -17,7 +16,6 @@ Check installation:
 node -v
 npm -v
 ```
-````
 
 ---
 
@@ -95,14 +93,3 @@ This repo is part of the course:
 ## 🤝 License
 
 MIT — use freely, especially for learning.
-
-```
-
----
-
-Se quiseres, posso também montar o `package.json` com Cypress já incluído e `.gitignore` para começar limpo. Queres isso também?
-```
-
-```
-
-```
